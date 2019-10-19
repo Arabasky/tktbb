@@ -9,7 +9,7 @@ function clean(text) {
 }
 
 const prefix = "h";
-const token = "NjM1MjM0OTUzNTEyMjIyNzYw.XauGzQ.qw5na2SHd32HF7bOyhj8cHV0cWo";
+const token = "YOUR TOKEN";
 
 client.on("ready", () => {
   console.log("SKY | Logged in! Server count: ${client.guilds.size}");
